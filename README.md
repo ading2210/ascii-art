@@ -47,11 +47,11 @@ result = ascii.convert_image("samples/dithering_test.png")
 #size (tuple) - Resize the image to this size.
 #threshold (int) - The threshold to use if dithering is disabled.
 
-print(results)
+print(result)
 ```
 
 ### Screenshots:
 ![Using the sample image on https://en.wikipedia.org/wiki/Dither](https://github.com/ading2210/ascii-art/blob/main/images/screenshot1.png?raw=true)
 ![Using a screenshot of some text](https://github.com/ading2210/ascii-art/blob/main/images/screenshot2.png?raw=true)
 
-(also I know that this is unicode, not ASCII, but this is what most people associate with the term "ASCII art" so I'm keeping it)
+(also I know that this is unicode, not ASCII, but this is what most people associate with the term "ASCII art")
