@@ -2,6 +2,11 @@
 
 This program is can take any bitmap image and turn it into text that is comprised of braille unicode symbols. It supports dithering, inverting the image, custom sizes and scaling options, and a custom threshold if dithering is off. 
 
+This requires the Pillow python library, which can be installed by running the following:
+```
+pip3 install Pillow
+```
+
 ### Usage from the command line:
 
 ```
