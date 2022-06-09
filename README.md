@@ -44,3 +44,7 @@ result = ascii.convert_image("samples/dithering_test.png")
 
 print(results)
 ```
+
+### Screenshots:
+![Using the sample image on https://en.wikipedia.org/wiki/Dither](https://github.com/ading2210/ascii-art/blob/main/images/screenshot1.png?raw=true)
+![Using a screenshot of some text](https://github.com/ading2210/ascii-art/blob/main/images/screenshot2.png?raw=true)
