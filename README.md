@@ -1,6 +1,6 @@
 ## Braille ASCII Art Generator:
 
-This program is can take any bitmap image and turn it into text that is comprised of braille unicode symbols. It supports dithering, inverting the image, custom sizes and scaling options, and a custom threshold if dithering is off. 
+This program can take any bitmap image and turn it into text that is comprised of braille unicode symbols. It supports dithering, inverting the image, custom sizes and scaling options, and a custom threshold if dithering is off. 
 
 This requires the Pillow python library, which can be installed by running the following:
 ```
@@ -54,4 +54,4 @@ print(result)
 ![Using the sample image on https://en.wikipedia.org/wiki/Dither](https://github.com/ading2210/ascii-art/blob/main/images/screenshot1.png?raw=true)
 ![Using a screenshot of some text](https://github.com/ading2210/ascii-art/blob/main/images/screenshot2.png?raw=true)
 
-(also I know that this is unicode, not ASCII, but this is what most people associate with the term "ASCII art")
+(also I know that this is unicode, not ASCII)
